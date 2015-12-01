@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialized a repository, a hidden folder named ".git" is created, which stores information about the repository itself and the many commits. I need to initilize a repository to tell the computer the specific directory that I want to tie my repository to.
