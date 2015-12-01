@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When I initialized a repository, a hidden folder named ".git" is created, which stores information about the repository itself and the many commits. I need to initilize a repository to tell the computer the specific directory that I want to tie my repository to.
+
+
+How is the staging area different from the working directoy and the repository? What value do you thinkit offers?
+
+Both the working directory and the repository are permanent and resembles the concept of ROM, while the staging area is temporary and resembles a RAM. Since the principle of creating commits is one commit per logical change, the staging area allows programmers to have a 'place' to work on multiple files before they finish making one logical change and save this change.
